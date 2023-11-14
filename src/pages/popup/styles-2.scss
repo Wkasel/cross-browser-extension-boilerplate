@@ -1,4 +1,8 @@
-@import "../../common/assets/main.css";
+// @import "../../common/assets/main.css";
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
 
 #footer {
   color: black;
